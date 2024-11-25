@@ -1,2 +1,2 @@
 # Passwd_sniffer
-A network sniffer to retrieve password plaintext.
+A network sniffer to retrieve plaintext password.
